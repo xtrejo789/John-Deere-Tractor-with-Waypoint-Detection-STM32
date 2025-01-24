@@ -1,0 +1,3 @@
+../Core/Src/WayPointNotify.c:32:10:WaypointUpdateState	7
+../Core/Src/WayPointNotify.c:86:9:isCarAtWaypoint	1
+../Core/Src/WayPointNotify.c:92:9:updateNextWaypoint	2

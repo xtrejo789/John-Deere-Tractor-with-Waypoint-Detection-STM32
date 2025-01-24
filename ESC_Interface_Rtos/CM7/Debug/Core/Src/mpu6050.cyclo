@@ -1,0 +1,5 @@
+../Core/Src/mpu6050.c:60:6:mpu6050_init	5
+../Core/Src/mpu6050.c:111:19:MPU_writeAccFullScaleRange	5
+../Core/Src/mpu6050.c:153:19:MPU_writeGyroFullScaleRange	5
+../Core/Src/mpu6050.c:195:6:MPU_readRawData	1
+../Core/Src/mpu6050.c:254:6:MPU_readProcessedData	1

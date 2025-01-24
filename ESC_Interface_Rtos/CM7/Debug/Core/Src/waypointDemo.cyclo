@@ -1,0 +1,7 @@
+../Core/Src/waypointDemo.c:46:6:initServoTim	2
+../Core/Src/waypointDemo.c:56:6:initESCTim	2
+../Core/Src/waypointDemo.c:65:6:setServoAngle	1
+../Core/Src/waypointDemo.c:74:6:setEscSpeed	1
+../Core/Src/waypointDemo.c:80:6:waypointPathHardcode	1
+../Core/Src/waypointDemo.c:97:6:waypointPathEncoder	12
+../Core/Src/waypointDemo.c:151:6:stopCar	1
